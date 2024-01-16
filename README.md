@@ -25,4 +25,4 @@ Além disso, tivemos que investir um pouco na linguagem ou pelo menos pegar uma 
 
 * Quero agradecer ao ministrante dessa matéria, o professor Rodrigo Sementes.
 
-* Link para o seu linkedin [Meu linkedin](https://www.linkedin.com/in/marcos-henrique-gomess/)
+* Link do meu linkedin [Meu linkedin](https://www.linkedin.com/in/marcos-henrique-gomess/)
